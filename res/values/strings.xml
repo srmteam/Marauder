@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Marauder\'s app</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="byaakash">By Team Aakash</string>
+    <string name="newtoapp">New? Click here to get started!</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="create">Fill in the form to create a new user</string>
+    <string name="newuser">New Username</string>
+    <string name="name">Name(with designation)</string>
+    <string name="validid">Enter a valid id</string>
+    <string name="validate">Check</string>
+    <string name="register">Get Started!</string>
+
+</resources>
